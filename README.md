@@ -3,7 +3,7 @@ ___
 
 ![til](https://github.com/rlarao/Energy-AI-Hackathon-2021/blob/c77d18eb74545c4ca3774421e87e79ae0e039f03/images/roaring_kitty_white.gif)
 
-## Team members:
+## Team members
 ### Ricardo Lara (rlara@utexas.edu) PGE Grad
 ### Sercan Gul (sercangul@utexas.edu) PGE Grad
 ### Chris Lawson (lawsonsirhc@gmail.com) CS Junior
