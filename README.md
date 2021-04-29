@@ -1,4 +1,4 @@
-![til](https://github.com/rlarao/Energy-AI-Hackathon-2021/blob/5d995a434313216f1aab26dc7b2d1053a48762ef/images/roaring_kitty_4.gif)
+![til](https://github.com/rlarao/Energy-AI-Hackathon-2021/blob/c77d18eb74545c4ca3774421e87e79ae0e039f03/images/roaring_kitty_white.gif)
 
 # Energy A.I. Hackathon 2021
 
