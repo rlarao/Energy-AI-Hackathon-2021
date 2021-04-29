@@ -4,11 +4,11 @@ ___
 ![til](https://github.com/rlarao/Energy-AI-Hackathon-2021/blob/c77d18eb74545c4ca3774421e87e79ae0e039f03/images/roaring_kitty_white.gif)
 
 ## Team members
-### Ricardo Lara (rlara@utexas.edu) PGE Grad
-### Sercan Gul (sercangul@utexas.edu) PGE Grad
-### Chris Lawson (lawsonsirhc@gmail.com) CS Junior
-### Adi Ojha (adiojha629@utexas.edu) ECE Sophomore
-### Javier Santos (javierestradasantos@gmail.com) PGE Grad
+### [Ricardo Lara](https://www.linkedin.com/in/ricardolarao/), rlara@utexas.edu
+### Sercan Gul, sercangul@utexas.edu
+### Chris Lawson, lawsonsirhc@gmail.com
+### Adi Ojha, adiojha629@utexas.edu
+### Javier Santos, javierestradasantos@gmail.com
 ___
 ## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
 
